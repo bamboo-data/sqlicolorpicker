@@ -1,0 +1,17 @@
+{
+    "name": "sqli/colorpicker-ls",
+    "description": "eZ Publish Legacy extension providing SQLIColorPicker datatype",
+    "authors": [
+        {
+            "name": "Christophe Laforêt"
+        }
+    ],
+    "license": "GPL-2.0-only",
+    "type": "ezpublish-legacy-extension",
+    "require": {
+        "ezsystems/ezpublish-legacy-installer": "^2.0.4"
+    },
+    "extra": {
+        "ezpublish-legacy-extension-name": "sqlicolorpicker"
+    }
+}
